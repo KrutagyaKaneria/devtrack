@@ -113,7 +113,6 @@ export function useRealtimeSync(
 
         for (const event of eventsKey.split(",") as RealtimeEvent[]) {
             channel = channel.on(
-                // @ts-expect-error — "postgres_changes" is a valid literal accepted by the SDK
                 "postgres_changes",
                 {
                     event,

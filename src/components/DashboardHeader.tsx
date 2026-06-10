@@ -4,6 +4,7 @@ import NotificationBell from "@/components/NotificationBell";
 import {
   createContext,
   ReactNode,
+  useCallback,
   useContext,
   useEffect,
   useLayoutEffect,
