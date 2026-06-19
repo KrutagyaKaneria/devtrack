@@ -52,6 +52,7 @@ DevTrack is one of the most active open-source developer-productivity projects c
 ## How to Sponsor
 
 - **GitHub Sponsors (recurring):** https://github.com/sponsors/Priyanshu-byte-coder
+- **Buy Me a Chai (one-time, UPI-friendly):** https://www.buymeachai.in/devtrack
 
 ---
 

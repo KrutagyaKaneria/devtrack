@@ -495,7 +495,7 @@ With **130+ stars**, **369 forks**, **800+ merged PRs**, and **224 contributors*
 
 > Be the first sponsor — your logo or name will appear here. See tiers above.
 
-**[Sponsor DevTrack on GitHub →](https://github.com/sponsors/Priyanshu-byte-coder)**
+**[Sponsor DevTrack on GitHub →](https://github.com/sponsors/Priyanshu-byte-coder)** · **[Buy Me a Chai →](https://www.buymeachai.in/devtrack)**
 
 Want a standalone sponsor brief to share with your company's finance team? See [docs/SPONSORS.md](./docs/SPONSORS.md).
 
